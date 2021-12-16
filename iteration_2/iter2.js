@@ -41,6 +41,7 @@ bien imprimiendolo.*/
 const car = { name2: "Mazda 6", itv: [2015, 2011, 2020] };
 let { name2, itv } = car;
 let [itv1, itv2, itv3] = itv;
+
 console.log(car);
 console.log(name2, itv);
 console.log(itv1, itv2, itv3);
